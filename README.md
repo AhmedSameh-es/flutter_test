@@ -1,16 +1,7 @@
-# flutter_task
-
-A new Flutter project.
-
-## Getting Started
-
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+TO RUN THE APP PLEASE FOLLOW THESE STEPS:
+OPEN A SIMULATOR/CONNECT YOUR PHYSICAL DEVICE
+OPEN VSCODE OR ANY CODE EDITOR
+OPEN THE FOLLOW AFTER DOWNLOADING THE CODE FROM GITHUB
+GO TO MAIN FILE
+CLICK ON RUN: RUN WITHOUT DEBUGGING
+THE UI IS SIMPLE: JUST RUN THE APP AND CHOSE THE STATS YOU WANT TO VIEW
